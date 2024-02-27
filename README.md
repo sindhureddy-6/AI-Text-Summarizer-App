@@ -1,7 +1,7 @@
 # AI-Text-Summarizer-App
 Welcome to the AI-powered Text Summarizer Web Application!
 
-This project features an advanced web application that leverages OpenAI's powerful GPT models for text summarization. With cutting-edge natural language processing technology, this application is capable of generating concise summaries of large texts.
+This project features an web application that leverages OpenAI's powerful GPT models for text summarization. 
 
 Key Features:
 - Utilizes OpenAI's GPT models for accurate and efficient text summarization.
